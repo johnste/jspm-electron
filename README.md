@@ -1,1 +1,1 @@
-# Spel
+# A really basic JSPM + electron setup
